@@ -1,3 +1,3 @@
-# About Me
+Hi, there! :wave:
 
--Hi, I'm Richies Luong. I am currently studying Java, React, SpringBoot and Python. 
+-I'm Richies Luong. I am currently studying Java, React and SpringBoot. 

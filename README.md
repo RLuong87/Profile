@@ -3,7 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-:leo:
+ABOUT ME :leo: :
+
+---
 
 -:globe_with_meridians: I'm Richies Luong. I am currently studying Java, React, SpringBoot and MySql at Careerdevs.
 
@@ -11,7 +13,7 @@
 
 -:hourglass: Algorithms as much as I can!
 
----
+
 
 Here are other languages that I have experience in:
 

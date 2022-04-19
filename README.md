@@ -5,11 +5,11 @@
 
 :leo:
 
-:globe_with_meridians: I'm Richies Luong. I am currently studying Java, React and SpringBoot at Careerdevs.
+-:globe_with_meridians: I'm Richies Luong. I am currently studying Java, React and SpringBoot at Careerdevs.
 
-:chart_with_upwards_trend: Working on full stack applications daily
+-:chart_with_upwards_trend: Working on full stack applications daily
 
-:hourglass: Algorithms as much as I can!
+-:hourglass: Algorithms as much as I can!
 
 ---
 

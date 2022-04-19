@@ -13,11 +13,9 @@ ABOUT ME :leo: :
 
 -:hourglass: Algorithms as much as I can!
 
-
+---
 
 Here are other languages that I have experience in:
-
----
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;

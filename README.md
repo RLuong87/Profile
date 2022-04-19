@@ -5,4 +5,7 @@
 
 :globe_with_meridians: I'm Richies Luong. I am currently studying Java, React and SpringBoot at Careerdevs.
 
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+
+
 https://www.linkedin.com/in/richies-luong-54377a220/

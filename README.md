@@ -29,8 +29,3 @@ Below are the languages that I have experience in:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=RLuong87&style=flat-square&color=blue" alt=""/>
-

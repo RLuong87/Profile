@@ -11,7 +11,7 @@ ABOUT ME :leo: :
 
 -:chart_with_upwards_trend: Working on full stack applications daily
 
--:hourglass: Algorithms as much as I can!
+-:hourglass: Algorithms to improve my knowledge
 
 ---
 

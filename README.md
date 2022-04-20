@@ -31,11 +31,12 @@ Here are other languages that I have experience in:
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RLuong87&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/richies-luong-54377a220/
 ">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RLuong87&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

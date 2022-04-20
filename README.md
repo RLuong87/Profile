@@ -11,12 +11,13 @@ ABOUT ME :leo: :
 - 🌱 I’m currently learning Java while sharpening my skills with SpringBoot, React, and CSS
 - 😄 Pronouns: He/Him 
 <h2>
-- 📫 How to reach me:  <div id="badges">
-                          <a href="https://www.linkedin.com/in/richies-luong-54377a220/
-                        ">
-                          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-                          </a>
-                        </div>
+- 📫 How to reach me:
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/richies-luong-54377a220/
+   ">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+   </div>
  </h2>
 
 ---

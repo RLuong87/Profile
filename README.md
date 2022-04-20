@@ -40,5 +40,5 @@ Here are other languages that I have experience in:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RLuong87&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RLuong87)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RLuong87&theme=dark&background=000000)](https://git.io/streak-stats)
 

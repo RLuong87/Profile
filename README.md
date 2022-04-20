@@ -1,5 +1,5 @@
 <h1>
-  Hi there!
+  Hi there! I'm Richies!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -8,6 +8,7 @@ ABOUT ME :leo: :
 
 - :globe_with_meridians: I’m currently working on a Capstone application
 - 🌱 I’m currently learning Java while sharpening my skills with SpringBoot, React, and CSS
+- - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
 <div id="badges">
   <a href="https://www.linkedin.com/in/richies-luong-54377a220/
@@ -15,7 +16,6 @@ ABOUT ME :leo: :
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-- 😄 Pronouns: He/Him
 
 ---
 

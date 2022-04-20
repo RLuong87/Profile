@@ -7,18 +7,15 @@ ABOUT ME :leo: :
 ---
 
 - :globe_with_meridians: I’m currently working on a Capstone application
-- 🌱 I’m currently learning Java, SpringBoot, React, MySql, CSS and Python
-- 👯 I’m looking to collaborate on …
-- 🤔 I’m looking for help with …
-- 💬 Ask me about …
-- 📫 How to reach me: <div id="badges">
+- 🌱 I’m currently learning Java while sharpening my skills with SpringBoot, React, and CSS
+- 📫 How to reach me: 
+<div id="badges">
   <a href="https://www.linkedin.com/in/richies-luong-54377a220/
 ">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:
 
 ---
 

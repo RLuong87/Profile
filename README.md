@@ -10,17 +10,20 @@ ABOUT ME :leo: :
 - :globe_with_meridians: I’m currently working on fullstack applications
 - 🌱 I’m currently learning Java while sharpening my skills with SpringBoot, React, and CSS
 - 😄 Pronouns: He/Him 
-- 📫 How to reach me:
+
  <h2>
-  <div id="badges">
+  <div id="badges"> - 📫 How to reach me:
     <a href="https://www.linkedin.com/in/richies-luong-54377a220/
    ">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   <a href="richiesluong@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
    </div>
  </h2>
 
-Here are other languages that I have experience in:
+My experience:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;

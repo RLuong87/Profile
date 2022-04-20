@@ -4,14 +4,6 @@
 </h1>
 
 ABOUT ME :leo: :
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/richies-luong-54377a220/
-">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 ---
 
 -:globe_with_meridians: I'm Richies Luong. I am currently studying Java, React, SpringBoot and MySql at Careerdevs.
@@ -20,6 +12,13 @@ ABOUT ME :leo: :
 
 -:hourglass: Algorithms to improve my knowledge
 
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/richies-luong-54377a220/
+">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 ---
 
 Here are other languages that I have experience in:

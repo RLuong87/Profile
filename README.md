@@ -21,8 +21,6 @@ ABOUT ME :leo: :
    </div>
  </h2>
 
----
-
 Here are other languages that I have experience in:
 
 <div>

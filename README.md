@@ -12,6 +12,7 @@ ABOUT ME :leo: :
 - 😄 Pronouns: He/Him 
 <h2>
 - 📫 How to reach me:
+  
   <div id="badges">
     <a href="https://www.linkedin.com/in/richies-luong-54377a220/
    ">

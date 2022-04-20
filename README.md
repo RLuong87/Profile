@@ -17,7 +17,7 @@ ABOUT ME :leo: :
    ">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
-   <a href=richiesluong@gmail.com>
+   <a href="https://mail.google.com/mail/u/2/#inbox">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
    </a>
@@ -47,3 +47,4 @@ My experience:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RLuong87&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RLuong87&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 

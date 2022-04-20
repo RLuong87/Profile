@@ -18,13 +18,6 @@ ABOUT ME :leo: :
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
    </div>
-  
-  <div id="badges">
-    <a href="https://mail.google.com/mail/u/2/#inbox
-   ">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-   </div>
  </h2>
 
 Here are other languages that I have experience in:

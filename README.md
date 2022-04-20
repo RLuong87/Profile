@@ -7,7 +7,7 @@
 ABOUT ME :leo: :
 ---
 
-- :globe_with_meridians: I’m currently working on a Capstone application
+- :globe_with_meridians: I’m currently working on fullstack applications
 - 🌱 I’m currently learning Java while sharpening my skills with SpringBoot, React, and CSS
 - 😄 Pronouns: He/Him 
 <h2>

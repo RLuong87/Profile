@@ -8,7 +8,7 @@ ABOUT ME :leo: :
 ---
 
 - :globe_with_meridians: I’m currently working on fullstack applications
-- 🌱 I’m currently learning Java while sharpening my skills with SpringBoot, React, and MySql
+- 🌱 I’m currently learning SpringBoot while sharpening my skills with Java and React
 - 😄 Pronouns: He/Him 
 ---
  <h2>

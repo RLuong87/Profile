@@ -21,7 +21,7 @@ ABOUT ME :leo: :
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
    </a>
-   <a href="https://www.instagram.com/?hl=en">
+   <a href="https://www.instagram.com/rell_m4n/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
    </div>
